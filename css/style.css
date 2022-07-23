@@ -33,7 +33,7 @@ body {
 
 .header {
     max-width: 85rem;
-    margin-bottom: 32rem;
+    margin-bottom: 32.2rem;
 }
 
 .header__logo {
@@ -41,7 +41,7 @@ body {
 }
 
 .header__title {
-    margin: 12.4rem 0 4.1rem;
+    margin: 12.4rem 0 3.9rem;
     font-weight: var(--bold);
     font-size: 8.8rem;
     line-height: 1em;
@@ -80,7 +80,7 @@ body {
     min-height: 62.5rem;
     color: var(--white);
     font-size: 2rem;
-    padding: 2.9em 2.95em 2.4em 2.7em;
+    padding: 2.9em 2.7em 2.4em;
     position: absolute;
     right: 9.5rem;
     top: 9rem;
@@ -115,7 +115,7 @@ body {
 
 .hero__download {
     all: unset;
-    width: 100%;
+    width: 98.5%;
     border-radius: 1.2rem;
     text-align: center;
     font-size: 1.8rem;
