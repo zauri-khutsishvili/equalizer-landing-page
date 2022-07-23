@@ -49,11 +49,10 @@ body {
 }
 
 .header__description {
-    font-family: sans-serif;
+    font-family: Arial, 'IBM Plex Sans', sans-serif;
     font-weight: var(--regular);
     font-size: 2rem;
     line-height: 1.7em;
-    letter-spacing: -0.06em;
     margin-left: -0.05rem;
 }
 
