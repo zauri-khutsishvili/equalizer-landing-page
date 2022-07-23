@@ -106,7 +106,7 @@ body {
 }
 
 .hero__price span {
-    font-size: 2.05rem;
+    font-size: 2rem;
     font-weight: var(--regular);
     vertical-align: middle;
     margin-left: .05em;
