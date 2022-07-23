@@ -33,7 +33,7 @@ body {
 
 .header {
     max-width: 85rem;
-    margin-bottom: 32.2rem;
+    margin-bottom: 32.3rem;
 }
 
 .header__logo {
@@ -41,7 +41,7 @@ body {
 }
 
 .header__title {
-    margin: 12.4rem 0 3.9rem;
+    margin: 12.4rem 0 3.8rem;
     font-weight: var(--bold);
     font-size: 8.8rem;
     line-height: 1em;
@@ -89,7 +89,7 @@ body {
 .hero__title {
     font-size: 4rem;
     font-weight: var(--bold);
-    margin-bottom: .57em;
+    margin-bottom: .5em;
 }
 
 .hero__description {
