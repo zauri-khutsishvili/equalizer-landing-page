@@ -121,7 +121,7 @@ body {
     font-size: 1.8rem;
     font-weight: var(--bold);
     letter-spacing: -0.01em;
-    padding: 1em 0 1.05em;
+    padding: .94em 0 1.1em;
     margin-top: 1.6rem;
     cursor: pointer;
     transition: background-color .25s ease-in-out;
